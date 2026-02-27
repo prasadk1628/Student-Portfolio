@@ -26,3 +26,43 @@ The website is built using only HTML and CSS and demonstrates structured page de
 ---
 
 ## Project Structure
+
+student-portfolio/
+│
+├── index.html
+├── academics.html
+├── skills.html
+├── projects.html
+├── achievements.html
+├── contact.html
+│
+├── css/
+│ └── style.css
+│
+└── images/
+└── Prasad.png
+
+
+---
+
+## Pages Description
+- **Home** – Introduction and overview
+- **Academics** – Educational qualifications and coursework
+- **Skills** – Technical skill set
+- **Projects** – Academic and development projects
+- **Achievements** – Certifications and participation
+- **Contact** – Communication details
+
+---
+
+## How to Run
+1. Clone the repository:
+   git clone https://github.com/your-username/student-portfolio.git
+   
+3. Open `index.html` in any web browser.
+
+---
+
+## Author
+Prasad  
+B.Tech Computer Science Engineering Student
