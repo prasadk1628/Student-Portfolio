@@ -57,7 +57,7 @@ student-portfolio/
 
 ## How to Run
 1. Clone the repository:
-   git clone https://github.com/your-username/student-portfolio.git
+   git clone https://github.com/prasadk1628/Student-Portfolio
    
 3. Open `index.html` in any web browser.
 
